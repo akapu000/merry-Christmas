@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic AR Experience",
+  "description": "An interactive 3D Christmas experience using Three.js and MediaPipe for hand gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
